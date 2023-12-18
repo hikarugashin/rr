@@ -1,0 +1,27 @@
+{
+  "title": "hika",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "23.1": {
+      "title": "23.1",
+      "volume": "",
+      "last_updated": "1702858618",
+      "groups": {
+        "": [
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/01.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/02.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/03.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/04.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/05.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/06.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/07.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/08.jpg",
+          "https://yoshiki.loves.hikaru.gay/api/raw/?path=/Manga/1.%20Web%20Serialization%20(web-ace.jp)/Chapter%2023%20(Ongoing)/09.jpg"
+        ]
+      }
+    }
+  }
+}
